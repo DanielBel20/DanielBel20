@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation testing
 - 🌱 I’m currently learning Python and Selenium
 - 💞️ I’m looking to collaborate on Automation testing
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/danielbelgun/
 
 <!---
 DanielBel20/DanielBel20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
